@@ -1,4 +1,4 @@
-# Dart Weekly Exercises
+# Week 2 Exercises
 
 ## Overview
 This week, we focused on practicing Dart programming concepts including asynchronous programming, exception handling, and classes/inheritance.
