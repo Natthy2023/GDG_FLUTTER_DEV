@@ -5,6 +5,6 @@ void main() {
     for (int j = 1; j <= i; j++) {
       stdout.write('*');
     }
-    print('');
+    stdout.writeln(); 
   }
 }
