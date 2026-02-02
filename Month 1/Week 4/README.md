@@ -1,23 +1,18 @@
 
-=======
-# Hello Flutter App
+# 📰 Daily News App
 
-My first Flutter application following the assignment instructions.
+A professional, editorial-style news platform built with Flutter. This app features a high-contrast "Gazette" layout and responsive category navigation, providing a seamless reading experience across mobile and web.
 
-## Widget Tree Hierarchy
+## ✨ Features
 
-hello_flutter/ → lib/ → main.dart → MyApp (StatelessWidget) → MaterialApp → HomePage (StatelessWidget) → Scaffold → [AppBar → Text('Welcome to Flutter')] + [Center → Text('This is my first Flutter app', style: TextStyle(fontSize: 24.0, color: Colors.deepPurple, fontWeight: FontWeight.bold))] ← main() function
+* **Modern Editorial Design:** A sleek homepage with featured hero stories and organized news feeds.
+* **Grid-Based Navigation:** An interactive category explorer with shadowed tiles and smooth ripple effects.
+* **Web-Optimized:** Custom-built to handle common Flutter Web overflow issues using adaptive scaling.
+* **Clean Data Modeling:** Robust class-based structures to ensure type safety and high performance.
 
-## App Features
-- Title: "Welcome to Flutter"
-- Center-aligned description text
-- Custom text styling (size: 24.0, color: deepPurple, weight: bold)
+## 🛠️ Quick Start
 
-## Screenshot
+1. **Clone the project:** `git clone https://github.com/Natthy2023/daily-news-app.git`
+2. **Install dependencies:** `flutter pub get`
+3. **Run the app:** `flutter run`
 
-<img width="946" height="558" alt="app_screenshot" src="https://github.com/user-attachments/assets/e6a208a4-94d3-4f09-ba2a-ba3247c5684c" />
-
-## How to Run
-1. Ensure Flutter is installed
-2. Run `flutter pub get`
-3. Run `flutter run`
